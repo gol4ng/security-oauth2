@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/gol4ng/security"
-	security_oauth "github.com/gol4ng/security-oauth/token"
+	security_oauth "github.com/gol4ng/security-oauth2/token"
 	"golang.org/x/oauth2"
 )
 
