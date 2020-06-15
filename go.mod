@@ -1,4 +1,4 @@
-module github.com/gol4ng/security-oauth
+module github.com/gol4ng/security-oauth2
 
 go 1.13
 

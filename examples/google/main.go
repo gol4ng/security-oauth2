@@ -14,8 +14,8 @@ import (
 	"github.com/gol4ng/httpware/v2/auth"
 	"github.com/gol4ng/httpware/v2/middleware"
 	authentication_http "github.com/gol4ng/security-http/authentication"
-	security_oauth_authentication "github.com/gol4ng/security-oauth/authentication"
-	security_oauth_token "github.com/gol4ng/security-oauth/token"
+	security_oauth_authentication "github.com/gol4ng/security-oauth2/authentication"
+	security_oauth_token "github.com/gol4ng/security-oauth2/token"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
 )
